@@ -1,1 +1,1 @@
-# ProjectEuler
+# My Solutions for Project Euler
