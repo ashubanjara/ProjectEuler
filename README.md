@@ -1,1 +1,1 @@
-# My Solutions for Project Euler
+# My Solutions for Project Euler Written in C
